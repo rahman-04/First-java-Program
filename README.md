@@ -1,2 +1,8 @@
 # First-java-Program
 This repository contains a simple *Hallo World* program written in Java. It is one of the most basic programs to get started with Java programming.
+here,
+public- It means this class is access by anywhere.
+static- it means the method belongs to the class itself not objects of the class.
+void-it means the method does not return anything.
+main- It is the name of a method where program execution Starts.
+String[]args- it is an array of String used to take Command line arguments.
