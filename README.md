@@ -28,6 +28,7 @@ Types of Loops:-
 
 Syntax:-
 for(initialization; condition; update)
+
 {
 //code to be executed
 
