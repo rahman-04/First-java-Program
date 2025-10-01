@@ -20,15 +20,21 @@ Scanner sc = new Scanner(System.in);// new is a keyword used to create a new obj
 (System.in)- It is Standard input Stream that reads bytes from the user.
 
 Today our topic is Loops:-
+
 So basically, A loop is uesd to repeat a block of code multiples times until a condition is met. Its saves time and avids Writing the same code again and again.
 Types of Loops:-
+
 1.For loop:- It is used when you know how many times you want to repeat.
+
 Syntax:-
 for(initialization; condition; update){
 //code to be executed
 }
+
 initialization:- int i = 0;
+
 condition:- i < 5;
+
 update(increment/decrement):- i++/i--
 
 
