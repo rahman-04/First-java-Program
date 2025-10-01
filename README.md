@@ -27,7 +27,8 @@ Types of Loops:-
 1.For loop:- It is used when you know how many times you want to repeat.
 
 Syntax:-
-for(initialization; condition; update)
+for(initialization; condition; update
+
 
 {
 //code to be executed
